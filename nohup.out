@@ -1,0 +1,443 @@
+W20260722 18:33:52.195591 331287 main.cpp:275] Using config path /userdata/user_config/base
+W20260722 18:33:52.196395 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/bin/singorix_wbcs_main
+W20260722 18:33:52.196417 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libassimp.so.5.0.0
+W20260722 18:33:52.196426 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libboost_filesystem.so.1.71.0
+W20260722 18:33:52.196432 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libboost_thread.so.1.71.0
+W20260722 18:33:52.196437 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libbsp.so
+W20260722 18:33:52.196442 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libcasadi.so.3.7
+W20260722 18:33:52.196447 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libcore_proto.so.0.2.0
+W20260722 18:33:52.196456 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libcrypto.so.3
+W20260722 18:33:52.196461 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libecat_app.so
+W20260722 18:33:52.196469 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libecat_endtool_dahuan_finger.so
+W20260722 18:33:52.196476 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libecat_endtool_grip.so
+W20260722 18:33:52.196485 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libecat_endtool_kunwei_sensor.so
+W20260722 18:33:52.196491 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libecat_motor.so
+W20260722 18:33:52.196497 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libecat_passthrough.so
+W20260722 18:33:52.196504 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libecat_stack.so
+W20260722 18:33:52.196510 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libembosa.so.9.1.2
+W20260722 18:33:52.196515 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libfastcdr.so.2.2.2
+W20260722 18:33:52.196523 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libfastrtps.so.2.14.2
+W20260722 18:33:52.196529 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libfoonathan_memory-0.7.3.so
+W20260722 18:33:52.196535 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libglog.so.0.6.0
+W20260722 18:33:52.196541 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libgomp.so.1.0.0
+W20260722 18:33:52.196547 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libgpiod.so.2.2.3
+W20260722 18:33:52.196556 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libhpp-fcl.so
+W20260722 18:33:52.196563 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libkdl_parser.so
+W20260722 18:33:52.196574 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libmcu_hal.so
+W20260722 18:33:52.196582 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libnavigation_proto.so.0.2.0
+W20260722 18:33:52.196588 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libnlopt.so.0.11.1
+W20260722 18:33:52.196595 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/liboctomap.so.1.10.0
+W20260722 18:33:52.196602 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/liboctomath.so.1.10.0
+W20260722 18:33:52.196608 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/liborocos-kdl.so.1.5.1
+W20260722 18:33:52.196614 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/liboskernel.so
+W20260722 18:33:52.196620 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libpinocchio_default.so.3.2.0
+W20260722 18:33:52.196626 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libpinocchio_extra.so.3.2.0
+W20260722 18:33:52.196631 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libpinocchio_parsers.so.3.2.0
+W20260722 18:33:52.196637 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libprotobuf.so.25.0.0
+W20260722 18:33:52.196645 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libqhull_r.so.8.0.1
+W20260722 18:33:52.196654 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libqpOASES.so.3.2
+W20260722 18:33:52.196660 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libsensor_proto.so.0.2.0
+W20260722 18:33:52.196667 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libservice_proto.so.0.1.0
+W20260722 18:33:52.196674 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libsingorix_common.so.0.5.2
+W20260722 18:33:52.196679 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libsingorix_control.so.0.4.9.4
+W20260722 18:33:52.196684 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libsingorix_control_pvt.so.0.4.9.4
+W20260722 18:33:52.196689 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libsingorix_estimator.so.0.5.0
+W20260722 18:33:52.196693 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libsingorix_wbc.so.0.5.8.0
+W20260722 18:33:52.196698 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libsingorix_wbcs.so.0.5.8.0
+W20260722 18:33:52.196704 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libspatial_proto.so.0.2.0
+W20260722 18:33:52.196708 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libspdlog.so.1.14.0
+W20260722 18:33:52.196714 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libssl.so.3
+W20260722 18:33:52.196719 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libtinyxml2.so.10.0.0
+W20260722 18:33:52.196724 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libtrac_ik.so
+W20260722 18:33:52.196729 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/liburdfdom_model.so.4.0
+W20260722 18:33:52.196734 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/liburdfdom_world.so.4.0
+W20260722 18:33:52.196741 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libwhole_body_control.so
+W20260722 18:33:52.196747 331287 info.cpp:35] Loaded Library: /userdata/update/manual_update/lib/libz.so.1.3.1
+W20260722 18:33:52.196752 331287 info.cpp:35] Loaded Library: /usr/lib/aarch64-linux-gnu/ld-2.31.so
+W20260722 18:33:52.196758 331287 info.cpp:35] Loaded Library: /usr/lib/aarch64-linux-gnu/libc-2.31.so
+W20260722 18:33:52.196763 331287 info.cpp:35] Loaded Library: /usr/lib/aarch64-linux-gnu/libdl-2.31.so
+W20260722 18:33:52.196768 331287 info.cpp:35] Loaded Library: /usr/lib/aarch64-linux-gnu/libgcc_s.so.1
+W20260722 18:33:52.196775 331287 info.cpp:35] Loaded Library: /usr/lib/aarch64-linux-gnu/libm-2.31.so
+W20260722 18:33:52.196782 331287 info.cpp:35] Loaded Library: /usr/lib/aarch64-linux-gnu/libpthread-2.31.so
+W20260722 18:33:52.196789 331287 info.cpp:35] Loaded Library: /usr/lib/aarch64-linux-gnu/librt-2.31.so
+W20260722 18:33:52.196795 331287 info.cpp:35] Loaded Library: /usr/lib/aarch64-linux-gnu/libstdc++.so.6.0.28
+W20260722 18:33:52.199096 331287 wbcs_manager.cpp:93] EmbosaSetExitCallback registered
+I20260722 18:33:52.313844 331301 wbcs_interface.cpp:437] service state: INITIALIZING
+Loading robot configuration from /userdata/user_config/base
+I20260722 18:33:52.316691 331287 config_parser.cpp:628] [WBC][loadRobotConfig] input config_path: /userdata/user_config/base
+I20260722 18:33:52.316733 331287 config_parser.cpp:630] [WBC][loadRobotConfig] paths[0]: /data/config/default/SingoriX/real/galbot_g1-v2.2/robot_config.toml
+[SpdLoggerUtil] Process Name: front_head_camera_capture
+[SpdLoggerUtil] Logging to: /userdata/log/front_head_camera_capture/Info_20260722-183352_331290.log
+[SpdLoggerUtil] Setting flush interval to 5 seconds.
+[SpdLoggerUtil] Process Name: left_arm_camera_capture
+[SpdLoggerUtil] Logging to: /userdata/log/left_arm_camera_capture/Info_20260722-183352_331293.log
+[SpdLoggerUtil] Process Name: right_arm_camera_capture
+[SpdLoggerUtil] Logging to: /userdata/log/right_arm_camera_capture/Info_20260722-183352_331296.log
+[SpdLoggerUtil] Setting flush interval to 5 seconds.
+[SpdLoggerUtil] Setting flush interval to 5 seconds.
+W20260722 18:33:52.393237 331287 config_locator.cpp:790] ConfigLocator: user config not found: /userdata/config/SingoriX/payload_dyn.toml
+W20260722 18:33:52.393284 331287 config_locator.cpp:790] ConfigLocator: user config not found: /userdata/config/SingoriX/ft_sensor_calib.toml
+W20260722 18:33:52.393299 331287 config_locator.cpp:790] ConfigLocator: user config not found: /userdata/config/SingoriX/moto_dyn.toml
+Joint Config: 
+  Joint: left_gripper_joint1
+    Limit: [-1.79769e+308, 1.79769e+308, 1.79769e+308, 1.79769e+308, 1.79769e+308]
+  Joint: right_arm_joint4
+    Limit: [-1.86986, 2.56799, 3, 20, 30]
+  Joint: right_arm_joint6
+    Limit: [-0.735398, 0.822665, 3, 20, 10]
+  Joint: right_arm_joint3
+    Limit: [-2.91697, 2.91697, 3, 20, 30]
+  Joint: right_arm_joint2
+    Limit: [-1.60806, 1.60806, 3, 20, 60]
+  Joint: left_arm_joint7
+    Limit: [-1.5382, 1.5382, 3, 20, 10]
+  Joint: right_suction_cup_joint1
+    Limit: [-1.79769e+308, 1.79769e+308, 1.79769e+308, 1.79769e+308, 1.79769e+308]
+  Joint: left_arm_joint3
+    Limit: [-2.91697, 2.91697, 3, 20, 30]
+  Joint: chassis_joint1
+    Limit: [-1.79769e+308, 1.79769e+308, 1, 1.79769e+308, 1.79769e+308]
+  Joint: leg_joint4
+    Limit: [-1.5906, 1.5906, 0.5, 0.5, 30]
+  Joint: right_arm_joint7
+    Limit: [-1.5382, 1.5382, 3, 20, 10]
+  Joint: right_arm_joint1
+    Limit: [-3.00433, 3.00433, 3, 20, 60]
+  Joint: chassis_joint2
+    Limit: [-1.79769e+308, 1.79769e+308, 1, 1.79769e+308, 1.79769e+308]
+  Joint: chassis_joint3
+    Limit: [-1.79769e+308, 1.79769e+308, 1, 1.79769e+308, 1.79769e+308]
+  Joint: right_arm_joint5
+    Limit: [-2.91697, 2.91697, 3, 20, 10]
+  Joint: left_arm_joint1
+    Limit: [-3.00433, 3.00433, 3, 20, 60]
+  Joint: left_arm_joint2
+    Limit: [-1.60806, 1.60806, 3, 20, 60]
+  Joint: left_key_joint1
+    Limit: [-1.79769e+308, 1.79769e+308, 1.79769e+308, 1.79769e+308, 1.79769e+308]
+  Joint: leg_joint1
+    Limit: [0, 0.9374, 0.2, 0.5, 169]
+  Joint: left_arm_joint4
+    Limit: [-2.56799, 1.86986, 3, 20, 30]
+  Joint: head_joint2
+    Limit: [-0.214346, 0.493599, 1, 3, 4]
+  Joint: right_key_joint1
+    Limit: [-1.79769e+308, 1.79769e+308, 1.79769e+308, 1.79769e+308, 1.79769e+308]
+  Joint: leg_joint2
+    Limit: [0, 2.5847, 0.6, 1.5, 169]
+  Joint: left_arm_joint6
+    Limit: [-0.822665, 0.735398, 3, 20, 10]
+  Joint: left_arm_joint5
+    Limit: [-2.91697, 2.91697, 3, 20, 10]
+  Joint: leg_joint5
+    Limit: [-0.1645, 0.1645, 0.5, 0.5, 30]
+  Joint: leg_joint3
+    Limit: [0, 2.3262, 0.4, 1, 84]
+  Joint: chassis_joint4
+    Limit: [-1.79769e+308, 1.79769e+308, 1, 1.79769e+308, 1.79769e+308]
+  Joint: head_joint1
+    Limit: [-1.5208, 1.5208, 1, 3, 4]
+Group Config: 
+Group Name: wbc
+  Group Kinematics: 0
+  Group Dynamics: 0
+  Base Link: 
+  Tip Link: 
+  Group Interface: 
+  Group Controller Default: 
+  Joints: []
+  Group Controllers: 
+  Custom Params:
+Group Name: chassis
+  Group Kinematics: 0
+  Group Dynamics: 0
+  Base Link: 
+  Tip Link: 
+  Group Interface: GalbotChassisInterface
+  Group Controller Default: chassis_pose_ctrl
+  Joints: [chassis_joint1, chassis_joint2, chassis_joint3, chassis_joint4]
+  Group Controllers: 
+    --------------------------------
+    config_file: chassis_twist_ctrl.toml
+    class_name: GalbotChassisTwistController
+    ctrl_name: chassis_twist_ctrl
+    ctrl_id: 1
+    --------------------------------
+    config_file: chassis_pose_ctrl.toml
+    class_name: GalbotChassisPoseController
+    ctrl_name: chassis_pose_ctrl
+    ctrl_id: 0
+  Custom Params:
+    localization_score_threshold: 0.750000
+Group Name: head
+  Group Kinematics: 1
+  Group Dynamics: 1
+  Base Link: torso_base_link
+  Tip Link: head_end_effector_mount_link
+  Group Interface: GalbotPvtInterface
+  Group Controller Default: head_pvt_ctrl
+  Joints: [head_joint1, head_joint2]
+  Group Controllers: 
+    --------------------------------
+    config_file: head_pvt_ctrl.toml
+    class_name: GalbotPvtController
+    ctrl_name: head_pvt_ctrl
+    ctrl_id: 1
+    --------------------------------
+    config_file: head_pvt_bypass_ctrl.toml
+    class_name: GalbotPvtBypassController
+    ctrl_name: head_pvt_bypass_ctrl
+    ctrl_id: 0
+  Custom Params:
+Group Name: torso_imu
+  Group Kinematics: 0
+  Group Dynamics: 0
+  Base Link: 
+  Tip Link: 
+  Group Interface: GalbotIMUInterface
+  Group Controller Default: 
+  Joints: []
+  Group Controllers: 
+  Custom Params:
+Group Name: left_arm
+  Group Kinematics: 1
+  Group Dynamics: 1
+  Base Link: torso_base_link
+  Tip Link: left_arm_end_effector_mount_link
+  Group Interface: GalbotPvtInterface
+  Group Controller Default: left_arm_pvt_ctrl
+  Joints: [left_arm_joint1, left_arm_joint2, left_arm_joint3, left_arm_joint4, left_arm_joint5, left_arm_joint6, left_arm_joint7]
+  Group Controllers: 
+    --------------------------------
+    config_file: left_arm_impedance_pose_ctrl.toml
+    class_name: GalbotComplianceBaseController
+    ctrl_name: left_arm_impedance_pose_ctrl
+    ctrl_id: 4
+    --------------------------------
+    config_file: left_arm_admittance_pose_ctrl.toml
+    class_name: GalbotComplianceBaseController
+    ctrl_name: left_arm_admittance_pose_ctrl
+    ctrl_id: 3
+    --------------------------------
+    config_file: left_arm_pvt_ctrl_teleop.toml
+    class_name: GalbotPvtController
+    ctrl_name: left_arm_pvt_ctrl_teleop
+    ctrl_id: 2
+    --------------------------------
+    config_file: left_arm_pvt_ctrl.toml
+    class_name: GalbotPvtController
+    ctrl_name: left_arm_pvt_ctrl
+    ctrl_id: 1
+    --------------------------------
+    config_file: left_arm_pvt_bypass_ctrl.toml
+    class_name: GalbotPvtBypassController
+    ctrl_name: left_arm_pvt_bypass_ctrl
+    ctrl_id: 0
+  Custom Params:
+    joint_collision_threshold: [40.000000, 40.000000, 30.000000, 30.000000, 10.000000, 10.000000, 10.000000]
+    ee_collision_threshold: [20.000000, 20.000000, 20.000000, 20.000000, 20.000000, 20.000000]
+Group Name: right_arm
+  Group Kinematics: 1
+  Group Dynamics: 1
+  Base Link: torso_base_link
+  Tip Link: right_arm_end_effector_mount_link
+  Group Interface: GalbotPvtInterface
+  Group Controller Default: right_arm_pvt_ctrl
+  Joints: [right_arm_joint1, right_arm_joint2, right_arm_joint3, right_arm_joint4, right_arm_joint5, right_arm_joint6, right_arm_joint7]
+  Group Controllers: 
+    --------------------------------
+    config_file: right_arm_impedance_pose_ctrl.toml
+    class_name: GalbotComplianceBaseController
+    ctrl_name: right_arm_impedance_pose_ctrl
+    ctrl_id: 4
+    --------------------------------
+    config_file: right_arm_admittance_pose_ctrl.toml
+    class_name: GalbotComplianceBaseController
+    ctrl_name: right_arm_admittance_pose_ctrl
+    ctrl_id: 3
+    --------------------------------
+    config_file: right_arm_pvt_ctrl.toml
+    class_name: GalbotPvtController
+    ctrl_name: right_arm_pvt_ctrl
+    ctrl_id: 1
+    --------------------------------
+    config_file: right_arm_pvt_ctrl_teleop.toml
+    class_name: GalbotPvtController
+    ctrl_name: right_arm_pvt_ctrl_teleop
+    ctrl_id: 2
+    --------------------------------
+    config_file: right_arm_pvt_bypass_ctrl.toml
+    class_name: GalbotPvtBypassController
+    ctrl_name: right_arm_pvt_bypass_ctrl
+    ctrl_id: 0
+  Custom Params:
+    joint_collision_threshold: [40.000000, 40.000000, 30.000000, 30.000000, 10.000000, 10.000000, 10.000000]
+    ee_collision_threshold: [20.000000, 20.000000, 20.000000, 20.000000, 20.000000, 20.000000]
+Group Name: left_key
+  Group Kinematics: 0
+  Group Dynamics: 0
+  Base Link: 
+  Tip Link: 
+  Group Interface: GalbotEndToolInterface
+  Group Controller Default: 
+  Joints: [left_key_joint1]
+  Group Controllers: 
+  Custom Params:
+Group Name: vla
+  Group Kinematics: 0
+  Group Dynamics: 0
+  Base Link: 
+  Tip Link: 
+  Group Interface: GalbotPvtInterface
+  Group Controller Default: vla_ctrl
+  Joints: []
+  Group Controllers: 
+    --------------------------------
+    config_file: vla_ctrl.toml
+    class_name: GalbotVlaController
+    ctrl_name: vla_ctrl
+    ctrl_id: 0
+  Custom Params:
+Group Name: right_key
+  Group Kinematics: 0
+  Group Dynamics: 0
+  Base Link: 
+  Tip Link: 
+  Group Interface: GalbotEndToolInterface
+  Group Controller Default: 
+  Joints: [right_key_joint1]
+  Group Controllers: 
+  Custom Params:
+Group Name: right_suction_cup
+  Group Kinematics: 0
+  Group Dynamics: 0
+  Base Link: 
+  Tip Link: 
+  Group Interface: GalbotEndToolInterface
+  Group Controller Default: right_suction_cup_ctrl
+  Joints: [right_suction_cup_joint1]
+  Group Controllers: 
+    --------------------------------
+    config_file: right_suction_cup_ctrl.toml
+    class_name: GalbotSuctionCupController
+    ctrl_name: right_suction_cup_ctrl
+    ctrl_id: 0
+  Custom Params:
+Group Name: left_effort
+  Group Kinematics: 1
+  Group Dynamics: 0
+  Base Link: left_arm_end_effector_mount_link
+  Tip Link: left_arm_force_sensor_link
+  Group Interface: GalbotEndToolInterface
+  Group Controller Default: 
+  Joints: []
+  Group Controllers: 
+  Custom Params:
+Group Name: leg
+  Group Kinematics: 1
+  Group Dynamics: 1
+  Base Link: base_link
+  Tip Link: torso_base_link
+  Group Interface: GalbotPvtInterface
+  Group Controller Default: leg_pvt_ctrl
+  Joints: [leg_joint1, leg_joint2, leg_joint3, leg_joint4, leg_joint5]
+  Group Controllers: 
+    --------------------------------
+    config_file: leg_height_ctrl.toml
+    class_name: GalbotLegHeightController
+    ctrl_name: leg_height_ctrl
+    ctrl_id: 2
+    --------------------------------
+    config_file: leg_pvt_ctrl.toml
+    class_name: GalbotPvtController
+    ctrl_name: leg_pvt_ctrl
+    ctrl_id: 1
+    --------------------------------
+    config_file: leg_pvt_bypass_ctrl.toml
+    class_name: GalbotPvtBypassController
+    ctrl_name: leg_pvt_bypass_ctrl
+    ctrl_id: 0
+  Custom Params:
+Group Name: right_effort
+  Group Kinematics: 1
+  Group Dynamics: 0
+  Base Link: right_arm_end_effector_mount_link
+  Tip Link: right_arm_force_sensor_link
+  Group Interface: GalbotEndToolInterface
+  Group Controller Default: 
+  Joints: []
+  Group Controllers: 
+  Custom Params:
+Group Name: left_gripper
+  Group Kinematics: 0
+  Group Dynamics: 0
+  Base Link: 
+  Tip Link: 
+  Group Interface: GalbotEndToolInterface
+  Group Controller Default: left_gripper_ctrl
+  Joints: [left_gripper_joint1]
+  Group Controllers: 
+    --------------------------------
+    config_file: left_gripper_ctrl.toml
+    class_name: GalbotGripperController
+    ctrl_name: left_gripper_ctrl
+    ctrl_id: 0
+  Custom Params:
+Robot Info:
+config_dirs: [/data/config/default/SingoriX/real/galbot_g1-v2.2]
+robot_name: galbot_one_golf
+robot_urdf: /data/config/galbot_description/galbot_one_golf_description/galbot_one_golf_cali.urdf
+robot_impl: 0
+target_sampling_default: 2
+using_dynamics: 1
+using wbc: 0
+needing_contact_info: 0
+wbc_rate: 125.000000
+wbc_lock_chassis_joints: true
+wbc_config_file: "g1"
+main_thread_cpu_affinity_cores: [2.000000]
+wbc_locked_joints: []
+target_sub_log_skip: 1
+wbc_lock_waist_joints: false
+report_lock_wait_ms: 4
+report_wbc_info_skip: 2
+wbc_state_update_ratio: 0.000000
+report_worker_nice: 5
+sync_init_wait_max: 31536000
+main_thread_realtime_priority: 30
+main_thread_enable_cpu_affinity: false
+loop_diagnostics_worker_nice: 10
+wbc_lock_leg_joints: true
+main_thread_enable_realtime_priority: false
+wbc_iterations: 2
+Couldn't find chain left_arm_end_effector_mount_link to left_arm_force_sensor_linkNLOpt_IK can only be run for chains of length 2 or moreCouldn't find chain right_arm_end_effector_mount_link to right_arm_force_sensor_linkNLOpt_IK can only be run for chains of length 2 or more[WBCModel] Base model built from: /data/config/galbot_description/galbot_one_golf_description/galbot_one_golf_cali.urdf
+=== Mounted Tools Information ===
+No tools are currently mounted.
+W20260722 18:33:52.436054 331287 runtime_thread_policy.cpp:188] Process default runtime policy: enable_realtime_priority=0, realtime_priority=0, enable_cpu_affinity=0, cpu_affinity_cores=[]
+E20260722 18:33:52.436246 331287 hardware_manager.cpp:55] Interface "GalbotChassisInterface" not found.
+I20260722 18:33:52.436282 331287 hardware_manager.cpp:25] Interface "GalbotChassisInterface" registration success.
+I20260722 18:33:52.480111 331287 hardware_manager.cpp:39] Device "chassis" registration success.
+E20260722 18:33:52.480139 331287 hardware_manager.cpp:55] Interface "GalbotPvtInterface" not found.
+I20260722 18:33:52.480157 331287 hardware_manager.cpp:25] Interface "GalbotPvtInterface" registration success.
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+F20260722 18:33:52.480782 331287 emb_group_comm.cpp:690] Assert failed: client != nullptr
+*** Check failure stack trace: ***
+Stack trace (most recent call last):
+#16   Object "/data/galbot/bin/singorix_wbcs_main", at 0xaaaab1be79ab, in 
+#15   Object "/lib/aarch64-linux-gnu/libc.so.6", at 0xffffb6e06e0f, in __libc_start_main
+#14   Object "/data/galbot/bin/singorix_wbcs_main", at 0xaaaab1be62db, in 
+#13   Object "/data/galbot/bin/singorix_wbcs_main", at 0xaaaab1be7c4b, in 
+#12   Object "/data/galbot/lib/libsingorix_wbcs.so.0", at 0xffffb803e96b, in galbot::singorix::wbcs::WBCSManager::init(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)
+#11   Object "/data/galbot/lib/libsingorix_wbcs.so.0", at 0xffffb804a1bf, in galbot::singorix::wbcs::HardwareManager::registerDeviceInterface(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, std::shared_ptr<galbot::singorix::wbcs::RobotInterface>)
+#10   Object "/data/galbot/lib/libsingorix_wbcs.so.0", at 0xffffb8171a37, in galbot::singorix::wbcs::GalbotPvtInterface::registerDevice(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)
+#9    Object "/data/galbot/lib/libsingorix_wbcs.so.0", at 0xffffb817ec53, in galbot::singorix::wbcs::mcu::PvtCommunication::init(DeviceType)
+#8    Object "/data/galbot/lib/libmcu_hal.so", at 0xffffb624d597, in EmbGroupCommun::init(DeviceType, std::function<void (void const*, int, void const*)> const&)
+#7    Object "/data/galbot/lib/libglog.so.1", at 0xffffb61bf6cb, in google::LogMessageFatal::~LogMessageFatal()
+#6    Object "/data/galbot/lib/libglog.so.1", at 0xffffb61be03b, in google::LogMessage::Flush()
+#5    Object "/data/galbot/lib/libglog.so.1", at 0xffffb61c1a5b, in google::LogMessage::SendToLog()
+#4    Object "/data/galbot/lib/libglog.so.1", at 0xffffb61be5bf, in google::LogMessage::Fail()
+#3    Object "/lib/aarch64-linux-gnu/libc.so.6", at 0xffffb6e06aab, in abort
+#2    Object "/lib/aarch64-linux-gnu/libc.so.6", at 0xffffb6e19d78, in gsignal
+#1    Object "linux-vdso.so.1", at 0xffffb843f7bf, in 
+#0    Object "/data/galbot/bin/singorix_wbcs_main", at 0xaaaab1becdd3, in 
+Aborted (Signal sent by tkill() 331287 1000)
